@@ -6,21 +6,18 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+<font size="5">Team 107<br>
+**Submission: 09, 04, 2026**<br>
+Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
-  
+Professor Name Zane Reynolds<br>
 
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
 
+We are Team 107 in EGR 304. Our team will work collaboratively throughout the Fall 2026 semester to develop, document, and evaluate an embedded systems design project. This website serves as our team's central project report and contains our design decisions, technical work, and project deliverables.
 
 ## Team Members Datasheet links
 
