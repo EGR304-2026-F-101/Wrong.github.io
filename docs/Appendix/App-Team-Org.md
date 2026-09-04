@@ -8,6 +8,11 @@ tags:
 ## Team Goals
 
 List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+1. Develop a functional and reliable product that meets the project's technical requirements and performs consistently under expected operating conditions.
+2. Apply engineering concepts effectively by using skills from circuits, embedded systems, programming, and other relevant coursework to solve real design problems.
+3. Work effectively as a team by clearly dividing responsibilities, communicating progress, and supporting one another when challenges arise.
+4. Create a well documented and maintainable design so that another engineer could understand the product, reproduce the work, and make future improvements.
+5. Follow a structured engineering design process that includes planning, testing, troubleshooting, and iterative improvement rather than relying on trial and error.
 
 ## Communication Channels
 
