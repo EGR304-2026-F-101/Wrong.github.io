@@ -23,6 +23,6 @@ We are Team 107 in EGR 304. Our team will work collaboratively throughout the Fa
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-|  Canyonmill60  | https://canyonmill60.github.io/EGR304DataSheetTemplate/ |
-|  CeruleaVitr   | https://crackoxide.github.io/CrackOxide_EGR304_Fall26.github.io/ |
+|  Canyonmill60  | https://canyonmill60.github.io/EGR304DataSheetTemplate/|
+|  CeruleaVitr   | https://crackoxide.github.io/CrackOxide_EGR304_Fall26.github.io/|
 |  idtrfmnhcw  	 | https://idtrfmnhcw.github.io/idtrfmnhcw_EGR304_F26.github.io/|
