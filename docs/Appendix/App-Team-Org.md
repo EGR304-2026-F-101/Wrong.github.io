@@ -40,7 +40,7 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | - | - | - | - | - |
+| 8:00 AM | - | CR | - | CR | - | - | - |
 | 9:00 AM | - | - | - | - | - | - | - |
 | 10:00 AM | - | - | - | - | - | - | - |
 | 11:00 AM | - | - | - | - | - | - | - |
