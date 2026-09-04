@@ -29,4 +29,4 @@ Zane Reynolds and Dr. Kevin Nichols<br>
 | Gary Hoffland                | https://garyhoffland.github.io/Garyhoffland_EGR304_F26.github.io/ |
 | Caleb Ross                | https://caross10.github.io/caross10_EGR304_F26.github.io/ |
 | Daksh Raghav Preetha               | https://daksh2109.github.io/Daksh2109_EGR304_F26.github.io/|
-| Connor Erwin                | link |
+| Connor Erwin                | https://connorthethird.github.io/Connorthethird_EGR304_Individual_F26.github.io/ |
