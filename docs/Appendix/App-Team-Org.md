@@ -15,10 +15,10 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Gary Hoffland |  Group chat text | Email | Canvas message |
+|Daksh Raghav Preeth |  Group chat text | Email | Canvas message |
+|Connor Erwin |  Group chat text | Email | Canvas message |
+|Caleb Ross |  Group chat text | Email | Canvas message |
 
 ### Main Method for Group Communication
 
